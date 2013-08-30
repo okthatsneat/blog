@@ -12,7 +12,7 @@ categories: [Blog engines]
 Kind of embarrassing, sure - but just like starting to write tests for your code (cough), never too late. 
 So why now? I'm looking for a challenging new project (translates: I need a job), and besides making friends with 5 other programmers of your intended language / framework, starting a blog was the most common advise I came by. A good compilation of such advise was recently published by [Thoughtbot](http://robots.thoughtbot.com/post/59405543569/giant-robots-podcast-episode-63-knowledge-bomb "Thoughtbot Podcast: knowledge bomb").
 
-Since I just spent 5 months hacking on a Ruby (on Rails) project, I chose the most popular bogging engine listed by [Ruby Toolbox](https://www.ruby-toolbox.com/categories/Blog_Engines) - that site has never let me down. 
+Since I just spent 5 months hacking on a Ruby (on Rails) project, I chose the most popular blogging engine listed by [Ruby Toolbox](https://www.ruby-toolbox.com/categories/Blog_Engines) - that site has never let me down. 
 
 Really, the most challenging part here was to come up with a "creative" domain name - I'd really like to cloak the fact that I'm a little new to this by not using the .herokuapp.com domain. Solution: phrase the general reaction you'd want your readers to have when reading one of your posts. Feeling accomplished already!
 
@@ -20,7 +20,7 @@ After chipping out some virtual € to Godaddy, you get to click "launch" on you
 
 And of course I followed the getting started instructions over at [Octopress.com](http://octopress.org/docs/setup/ "Octopress setup").
 
-This first post was then written inside Sublime Text 2 that keeps popping up a window asking my to buy it, and I think that's the only reason I haven't done so yet. But they do make an awesome IDE, featuring a [spell checker](http://www.sublimetext.com/docs/2/spell_checking.html "Sublime Text 2 spellchecker") that makes this post a little less bad.
+This first post was then written inside Sublime Text 2 that keeps popping up a window asking my to buy it, and I think that's the only reason I haven't done so yet. But they do make an awesome IDE, featuring a [spell checker](http://www.sublimetext.com/docs/2/spell_checking.html "Sublime Text 2 spellchecker") that makes this post a little less bad. (edit: it sucks, it had no problemm with "bogging" but objects to "blogging" wtf)
 
 I guess I'll have to get into the [Markdown syntax](http://daringfireball.net/projects/markdown/syntax "Markdown syntax") and the [Liquid template language](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers "Liquid on Github") now that I'm blogging in it. 
 
