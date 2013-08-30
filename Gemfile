@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+ruby "1.9.3"
 
 group :development do
   gem 'rake', '~> 0.9'
@@ -17,6 +18,4 @@ group :development do
   gem 'directory_watcher', '1.4.1'
 end
 
-
 gem 'sinatra', '~> 1.4.2'
-gem 'ruby', '~>1.9.3'
