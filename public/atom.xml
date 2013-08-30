@@ -4,7 +4,7 @@
   <title><![CDATA[Ok That's Neat.]]></title>
   <link href="http://www.okthatsneat.com/atom.xml" rel="self"/>
   <link href="http://www.okthatsneat.com/"/>
-  <updated>2013-08-30T17:35:29+02:00</updated>
+  <updated>2013-08-30T17:49:27+02:00</updated>
   <id>http://www.okthatsneat.com/</id>
   <author>
     <name><![CDATA[Philipp Hofmann]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<h2>You are actually reading my first blog post ever.</h2>
 
 <p>Kind of embarrassing, sure &ndash; but just like starting to write tests for your code (cough), never too late.
-So why now? I looking for a challenging new project (translates: I need a job), and besides making friends with 5 other programmers of your intended language / framework, starting a blog was the most common advise I came by. A good compilation of such advise was recently published by <a href="http://robots.thoughtbot.com/post/59405543569/giant-robots-podcast-episode-63-knowledge-bomb" title="Thoughtbot Podcast: knowledge bomb">Thoughtbot</a>.</p>
+So why now? I&rsquo;m looking for a challenging new project (translates: I need a job), and besides making friends with 5 other programmers of your intended language / framework, starting a blog was the most common advise I came by. A good compilation of such advise was recently published by <a href="http://robots.thoughtbot.com/post/59405543569/giant-robots-podcast-episode-63-knowledge-bomb" title="Thoughtbot Podcast: knowledge bomb">Thoughtbot</a>.</p>
 
 <p>Since I just spent 5 months hacking on a Ruby (on Rails) project, I chose the most popular bogging engine listed by <a href="https://www.ruby-toolbox.com/categories/Blog_Engines">Ruby Toolbox</a> &ndash; that site has never let me down.</p>
 
