@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ok That's Neat.]]></title>
-  <link href="http://www.okthatsneat.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Design Patterns | Ok That's Neat.]]></title>
+  <link href="http://www.okthatsneat.com/blog/categories/design-patterns/atom.xml" rel="self"/>
   <link href="http://www.okthatsneat.com/"/>
   <updated>2013-09-26T17:37:43+02:00</updated>
   <id>http://www.okthatsneat.com/</id>
@@ -86,38 +86,6 @@ My credit cards lets me know which services I use: car sharing, streaming music,
 
 <p>Avoid callback magic confusion! Here&rsquo;s the trick: Give the Decorator class a reference to the Model instance, and then call stuff like &ldquo;save&rdquo; on the Decorator class, not the Model itself. Then have the Decorator add on stuff to &ldquo;save&rdquo;, preferably what you think it would when you read the Decorator class name. New booking for that Model? Need to send her a reminder, book flight, hotel, bodyguard, all that other stuff? Well, she doesn&rsquo;t need to know how, does she?
 Now you have sort of an explicit callback &ndash; &ldquo;Do this add-on stuff along with this Model lifecycle event, in this specific case&rdquo;. Not the horrible &ldquo;do this stuff every time even when I don&rsquo;t remember it does that and I find out hours later when shit already hit the fan&rdquo; callback magic way.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Setting up Octopress]]></title>
-    <link href="http://www.okthatsneat.com/blog/2013/08/30/setting-up-octopress/"/>
-    <updated>2013-08-30T16:50:00+02:00</updated>
-    <id>http://www.okthatsneat.com/blog/2013/08/30/setting-up-octopress</id>
-    <content type="html"><![CDATA[<h2>You are actually reading my first blog post ever.</h2>
-
-<p>Kind of embarrassing, sure &ndash; but just like starting to write tests for your code (cough), never too late.
-So why now? I&rsquo;m looking for a challenging new project (translates: I need a job), and besides making friends with 5 other programmers of your intended language / framework, starting a blog was the most common advise I came by. A good compilation of such advise was recently published by <a href="http://robots.thoughtbot.com/post/59405543569/giant-robots-podcast-episode-63-knowledge-bomb" title="Thoughtbot Podcast: knowledge bomb">Thoughtbot</a>.</p>
-
-<p>Since I just spent 5 months hacking on a Ruby (on Rails) project, I chose the most popular blogging engine listed by <a href="https://www.ruby-toolbox.com/categories/Blog_Engines">Ruby Toolbox</a> &ndash; that site has never let me down.</p>
-
-<p>Really, the most challenging part here was to come up with a &ldquo;creative&rdquo; domain name &ndash; I&rsquo;d really like to cloak the fact that I&rsquo;m a little new to this by not using the .herokuapp.com domain. Solution: phrase the general reaction you&rsquo;d want your readers to have when reading one of your posts. Feeling accomplished already!</p>
-
-<p>After chipping out some virtual € to Godaddy, you get to click &ldquo;launch&rdquo; on your domain name, and edit the CNAME property of &ldquo;www&rdquo; to [your_heroku_app_name.herokuapp.com] in your DNS manager. I set TTL to half an hour, impatiently.</p>
-
-<p>And of course I followed the getting started instructions over at <a href="http://octopress.org/docs/setup/" title="Octopress setup">Octopress.com</a>.</p>
-
-<p>This first post was then written inside Sublime Text 2 that keeps popping up a window asking my to buy it, and I think that&rsquo;s the only reason I haven&rsquo;t done so yet. But they do make an awesome IDE, featuring a <a href="http://www.sublimetext.com/docs/2/spell_checking.html" title="Sublime Text 2 spellchecker">spell checker</a> that makes this post a little less bad. (edit: it sucks, it had no problemm with &ldquo;bogging&rdquo; but objects to &ldquo;blogging&rdquo; wtf)</p>
-
-<p>I guess I&rsquo;ll have to get into the <a href="http://daringfireball.net/projects/markdown/syntax" title="Markdown syntax">Markdown syntax</a> and the <a href="https://github.com/Shopify/liquid/wiki/Liquid-for-Designers" title="Liquid on Github">Liquid template language</a> now that I&rsquo;m blogging in it.</p>
-
-<p>Oh, and of course to properly spy on you I also got myself a neat Google Analytics tracking ID that I configured Octopress with.
-I&rsquo;ll dive into what that does If I&rsquo;m still interested in it tomorrow and report on my findings in another post.</p>
-
-<p>Also up next: making this blog less ugly, and exploring everything that makes it look fancy to get me hired, preferably writing Ruby code.</p>
-
-<p>Cheers!
--p</p>
 ]]></content>
   </entry>
   
