@@ -4,7 +4,7 @@
   <title><![CDATA[Ok That's Neat.]]></title>
   <link href="http://www.okthatsneat.com/atom.xml" rel="self"/>
   <link href="http://www.okthatsneat.com/"/>
-  <updated>2013-09-26T17:37:43+02:00</updated>
+  <updated>2014-03-22T13:02:26+01:00</updated>
   <id>http://www.okthatsneat.com/</id>
   <author>
     <name><![CDATA[Philipp Hofmann]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Design Patterns are sexist]]></title>
+    <title type="html"><![CDATA[Design Patterns Are Sexist]]></title>
     <link href="http://www.okthatsneat.com/blog/2013/09/26/design-patterns-are-sexist/"/>
     <updated>2013-09-26T16:39:00+02:00</updated>
     <id>http://www.okthatsneat.com/blog/2013/09/26/design-patterns-are-sexist</id>
@@ -90,7 +90,7 @@ Now you have sort of an explicit callback &ndash; &ldquo;Do this add-on stuff al
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Setting up Octopress]]></title>
+    <title type="html"><![CDATA[Setting Up Octopress]]></title>
     <link href="http://www.okthatsneat.com/blog/2013/08/30/setting-up-octopress/"/>
     <updated>2013-08-30T16:50:00+02:00</updated>
     <id>http://www.okthatsneat.com/blog/2013/08/30/setting-up-octopress</id>

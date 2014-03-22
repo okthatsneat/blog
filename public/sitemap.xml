@@ -2,18 +2,26 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://www.okthatsneat.com/blog/2013/08/30/setting-up-octopress/</loc>
-        <lastmod>2013-08-30T19:15:54+02:00</lastmod>
+        <lastmod>2014-03-22T13:01:49+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.okthatsneat.com/blog/2013/09/26/design-patterns-are-sexist/</loc>
-        <lastmod>2013-09-26T17:37:25+02:00</lastmod>
+        <lastmod>2014-03-22T13:01:49+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.okthatsneat.com/blog/archives/</loc>
-        <lastmod>2013-09-26T17:37:25+02:00</lastmod>
+        <lastmod>2014-03-22T13:01:49+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.okthatsneat.com/</loc>
-        <lastmod>2013-09-26T17:37:25+02:00</lastmod>
+        <lastmod>2014-03-22T13:01:49+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.okthatsneat.com/posts/</loc>
+        <lastmod>2014-03-22T13:01:49+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.okthatsneat.com/robots.txt</loc>
+        <lastmod>2014-03-22T13:01:49+01:00</lastmod>
     </url>
 </urlset>
